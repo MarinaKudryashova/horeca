@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="151" height="151"><svg width="151" height="151" viewBox="0 0 151 151" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_462_3361)">
+<path d="M74.499 63.4083C74.3515 63.4968 74.1598 63.6959 74.0713 63.8434C73.9165 64.1235 73.9165 64.1457 73.9165 70.7888V77.454L74.9119 77.4245C75.745 77.395 76.0252 77.4171 76.5929 77.5499C78.2887 77.9406 79.7338 78.9139 80.7513 80.3369L81.0979 80.8235L81.3854 80.4991C82.4176 79.312 83.2803 77.5351 83.6637 75.8024C83.8922 74.7702 83.8922 72.6836 83.6637 71.6146C83.2065 69.4985 82.2923 67.7437 80.884 66.2838C79.6601 65.0157 78.274 64.1383 76.5929 63.5779C75.5681 63.2314 74.8897 63.1724 74.499 63.4083Z" fill="#FE0002"></path>
+<path d="M74.0636 79.7397C72.7881 80.0125 71.6158 80.9341 70.9964 82.1506C70.6278 82.8732 70.5024 83.4409 70.5024 84.3036C70.5246 86.2353 71.6379 87.85 73.459 88.5652C73.9457 88.7569 74.1521 88.7938 74.8747 88.8232C76.3419 88.8822 77.352 88.4988 78.34 87.5182C79.3132 86.5523 79.7999 85.2916 79.7114 83.9644C79.5197 81.0963 76.8949 79.1277 74.0636 79.7397Z" fill="#FE0002"></path>
+<path d="M65.7691 80.5875C62.2005 80.9488 58.949 83.2418 57.3564 86.5154C56.6117 88.0564 56.3684 89.037 56.3168 90.7918C56.2799 92.1411 56.3537 92.8341 56.6633 93.9843C56.9435 95.0239 57.2974 95.3631 58.0642 95.3041C58.4476 95.2746 58.8236 95.0682 64.1101 92.0157C67.2142 90.2241 69.7726 88.7347 69.8021 88.7052C69.8316 88.6757 69.7063 88.4398 69.5219 88.1744C68.7109 87.0168 68.239 85.5643 68.239 84.2298C68.239 83.3155 68.6445 81.6787 69.0206 81.1184C69.0796 81.0151 69.1164 80.8972 69.1017 80.8382C69.0206 80.6317 66.8898 80.4695 65.7691 80.5875Z" fill="#FE0002"></path>
+<path d="M81.3632 87.0463C80.4121 89.2582 78.1338 90.8729 75.6712 91.0941L75.1035 91.1457L75.2583 91.5586C76.4307 94.8101 79.0997 97.258 82.4618 98.1575C84.3714 98.6736 86.8119 98.5999 88.6625 97.9805C90.7712 97.2801 93.3444 95.3263 93.4993 94.3235C93.5509 93.9844 93.3666 93.4682 93.1159 93.2471C92.9168 93.0775 81.7319 86.6261 81.6287 86.6261C81.5844 86.6261 81.4665 86.8178 81.3632 87.0463Z" fill="#FE0002"></path>
+</g>
+<mask id="SvgjsMask1054" fill="white">
+<rect x="15" y="50" width="121" height="62" rx="3"></rect>
+</mask>
+<rect x="15" y="50" width="121" height="62" rx="3" stroke="#083A7F" stroke-width="8" mask="url(#path-5-inside-1_462_3361)"></rect>
+<mask id="SvgjsMask1053" fill="white">
+<rect y="37" width="151" height="87" rx="3"></rect>
+</mask>
+<rect y="37" width="151" height="87" rx="3" stroke="#083A7F" stroke-width="8" mask="url(#path-6-inside-2_462_3361)"></rect>
+<mask id="SvgjsMask1052" fill="white">
+<rect y="130" width="151" height="21" rx="3"></rect>
+</mask>
+<rect y="130" width="151" height="21" rx="3" stroke="#083A7F" stroke-width="8" mask="url(#path-7-inside-3_462_3361)"></rect>
+<mask id="SvgjsMask1051" fill="white">
+<rect width="151" height="32" rx="3"></rect>
+</mask>
+<rect width="151" height="32" rx="3" stroke="#083A7F" stroke-width="8" mask="url(#path-8-inside-4_462_3361)"></rect>
+<circle cx="24" cy="16" r="6.5" stroke="#083A7F" stroke-width="5"></circle>
+<circle cx="50" cy="16" r="6.5" stroke="#083A7F" stroke-width="5"></circle>
+<circle cx="101" cy="16" r="6.5" stroke="#083A7F" stroke-width="5"></circle>
+<circle cx="127" cy="16" r="6.5" stroke="#083A7F" stroke-width="5"></circle>
+<defs>
+<clipPath id="SvgjsClipPath1050">
+<rect width="37.75" height="37.75" fill="white" transform="translate(56 62)"></rect>
+</clipPath>
+</defs>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: contrast(0.7407407407407407) brightness(2); } }
+</style></svg>
